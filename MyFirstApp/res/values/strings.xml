@@ -7,5 +7,9 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_display_message">My Message</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
 
 </resources>
